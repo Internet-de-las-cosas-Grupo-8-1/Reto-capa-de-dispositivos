@@ -7,7 +7,9 @@ Este repositorio contiene el código para programar una placa NodeMCU (V3) ESP82
 
 ## Instalación del Ambiente de Desarrollo
 **Conexión y drivers:** Conecta el NodeMCU al computador y asegúrate de instalar el driver del chip serial CP2102 desde el sitio de Silicon Labs.
+
 **Instalación del IDE de Arduino:** Descarga e instala la versión 1.6.4 o superior del IDE de Arduino.
+
 **Configuración de la tarjeta ESP8266:** Agrega la URL del gestor de tarjetas en el IDE y luego instala el paquete "esp8266 by ESP8266 Community". Configura el módulo NodeMCU 1.0 en las opciones de tarjeta del IDE.
 
 ## Ambiente de Programación
