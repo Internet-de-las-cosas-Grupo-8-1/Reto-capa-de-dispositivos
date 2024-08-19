@@ -14,3 +14,6 @@ Este repositorio contiene el código para programar una placa NodeMCU (V3) ESP82
 
 ## Ambiente de Programación
 Usa el IDE de Arduino para escribir, compilar y desplegar el código en el NodeMCU. El monitor serial del IDE es útil para la depuración y monitoreo de los datos.
+
+## PDF
+[Reto capa de dispositivos.pdf](https://github.com/user-attachments/files/16663095/Reto.capa.de.dispositivos.pdf)
